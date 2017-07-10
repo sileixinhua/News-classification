@@ -1,0 +1,42 @@
+[
+流言：
+伸出你的手，比比看食指和无名指的长度。据说母亲怀胎期间性激素的水平会影响胎儿手指的长度差异。所以，食指比无名指长的男性、无名指比食指长的女性，更容易成为同性恋者！
+真相：
+为了详细了解这个流言，果壳谣言粉碎工在网上以“食指、无名指、同性恋”这几个关键字搜索，结果发现一系列坑爹标题如下——
+标题1、同性恋者的手相：右手食指和无名指一样长
+标题2、无名指比食指长的人更有可能有同性恋倾向！！
+标题N、男人食指比无名指长同性恋几率较高？
+看到这里，谣言粉碎工简直想摔键盘了，怎么说什么的都有呀？到底食指和无名指长度差能不能作为判断同性恋的依据呢？
+食指与无名指长短能说明什么？
+其实，食指与无名指长度之比（2D：4D）是一个近年来的研究热点。早在1930年就有研究者发现不同性别的人“2D：4D值”不同[1]。通俗一点说就是，与无名指相比，通常女性的食指更长。1998年，曼宁发现“2D：4D值”可以作为间接测算出生前性激素水平的参考[2]。目前，在科学界已经基本达成一致的认识是，这一比值与人出生前周围环境的雄激素水平有关。而且右手的“2D：4D值”比左手的“2D：4D值”更能体现这一水平。[3]但至于这种比值是否与人出生后的大脑结构、性格、乃至性取向相关，目前学界争论还比较多。许多关联都还众说纷纭，只能说是“未有定论”。
+研究“2D：4D值”与性取向之间关系的论文也发表了不少。2010年，Grimbos等人发表在《行为神经学》上的一篇论文总结了前些年发表的与“2D：4D值”以及性取向相关的多个独立研究结果[4]。收集的研究都经过严格挑选，比如让受试者自行测量右手“2D：4D值”的研究都未被选入，理由是受试者大多为右撇子，自行测量右手手指长度容易引入较大的数据误差。最后的统计数据来自34个独立样本，一共包括1618个异性恋男性，1693个异性恋女性，1503名同性恋男性与1014名同性恋女性。这篇论文可算是近几年来样本数较大的一个总结。根据这些数据的统计结果显示，异性恋女性比起同性恋女性来说，双手的“2D：4D值”均较高，意味着食指相对较长。但男同性恋与男异性恋的“2D：4D值”则没有显著差异。
+然而，Grimbos收集到的研究主要来自欧洲和北美两地，参与研究的人群种族资料许多已经不可考。而亦有许多研究显示人种可能影响“2D：4D值”。[5][6]因此，他的研究结果是否适用于亚洲人群尚不可知。另外，由于测量手指长度的方法众多，有的研究直接测量，有的研究则是将手拍照后测量照片，这些都可能给实验结果引入误差。最后也是最重要的是，统计学上的相关，与实际生活中的应用是两回事。想通过“手相”来了解某个特定人物的性取向？完全没有可行性。
+结论：谣言破解。
+食指和无名指长度差可能确实会体现人在出生前所处环境的一些特征。但目前没有任何可靠证据证明它与人的性取向有任何关系。相关的统计数据也并不支持流言中的观点。
+参考资料：
+[1] George, R. (1930). Human finger types.
+Anatomical Record, 46, 199–204.
+[2] Manning, J. T., Scutt, D.,Wilson, J., &amp;
+Lewis-Jones, D. I. (1998). The ratio of 2nd to 4th digit length: A
+predictor of sperm numbers and concentrations of testosterone,
+luteinizing hormone and oestrogen. Human Reproduction, 13,
+3000–3004.
+[3] Williams, T. J., Pepitone, M. E.,
+Christensen, S. E., Cooke, B. M.,Huberman, A. D., Breedlove, N. J.,
+. Breedlove, S. M. (2000, March 30). Finger-length ratios and
+sexual orientation. Nature, 404, 455–456.
+[4] Grimbos T, Dawood K, Burriss RP, Zucker KJ,
+Puts DA. Sexual orientation and the second to fourth finger length
+ratio: a meta-analysis in men and women. Behav Neurosci. 2010
+Apr;124(2):278-87.
+[5] Manning, J. T., Barley, L., Walton, J.,
+Lewis-Jones, D. I., Trivers, R. L.,Singh, D., . . . Szwed, A.
+(2000). The 2nd:4th digit ratio, sexual dimorphism, population
+differences, and reproductive success: Evidence for sexually
+antagonistic genes. Evolution and Human Behavior, 21,
+163–183.
+[6] Manning, J. T., Stewart, A., Bundred, P. E.,
+&amp; Trivers, R. L. (2004). Sex and ethnic differences in 2nd to
+4th digit ratio of children. Early Human Development, 80,
+161–168.
+ ]

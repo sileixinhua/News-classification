@@ -1,0 +1,81 @@
+[
+谣言：O型血的人易患疾病包括胃溃疡和十二指肠疾病、肝硬化、胆囊炎、阑尾炎、支气管哮喘，脓肿等。虽然平常较易生病，但平均寿命明显较长。
+A型血的人容易患葡萄球菌化脓感染、沙门氏菌病、结核病、白喉、痢疾、流行性感冒、动脉粥样硬化、风湿病、心肌梗塞、癫痫、慢性酒精中毒等疾病。
+B型血的人易患的疾病包括痢疾，流行性感冒、神经根炎、骨病、泌尿生殖系统、关节炎等。
+AB型血的人容易患脓毒性感染、急性呼吸道疾病、病毒性肝炎等疾病。据统计，AB型血的人患精神分裂症比其他血型高出3倍多，但AB型血在患结核病、妊娠贫血的比率上，则比其他血型的人低很多。
+真相：血型与某些疾病确实存在相关性，这些疾病的流行，加上遗传规律及人类的迁移，共同导致今天世界上各地区所能观察到的ABO血型的分布频率。与其说血型易让人患上某种确定的疾病，不如说在人类进化过程中，某些地区流行的疾病“挑选”了该地域人群的血型分布。
+血型分布有地域差异
+基于红细胞表面特定的抗原来划分的ABO型血，是现代医学中输血的重要依据之一。ABO血型由单一基因决定，分为A、B和O三种变型。
+
+在不同的地区和人种中，ABO血型分布是有差异的。譬如，西南非洲地区O
+型血较多；A型血在欧洲分布最多，往亚洲方向逐渐减低；B
+型血人在亚洲最多，欧洲最低。[1]
+
+在中国大陆，由北向西南方向，B型血的数量逐渐下降，而O
+型血却逐渐增加，在云贵川和长江中下游地区A型血数量升高，两广福建和台湾地区O
+型血的人就比其他地区多。[2]
+血型由基因决定，一种基因在人类某一群体的进化中能被保留下来，或者占有较高的比例，说明这种基因对这个群体的生存和繁衍有利，所以才能够通过遗传传递并扩大其比例。是什么导致了血型基因型的地区分布差异？这就要从人类漫长的进化史中影响血型演变的因素说起了。
+原始社会，易凝血的非O型血生存机率大
+最初科学家发现，相对于O型血的人非O型血（A型、B型、AB型）更容易患上血栓性疾病。为了解释这种现象，研究者检测了不同血型的人血液中相关凝血因子的含量。结果发现在非O型血人的血液中，两种参与凝血过程的因子（血管性血友病因子抗原和凝血因子Ⅷ）的水平要高于O型血。[1]
+原因在于A型血和B型血基因的基因产物，能延长血管性血友病因子抗原的半衰期（在O型血群体中为10小时，在非O型血群体中25小时），从而使体内血管性血友病因子抗原维持在较高水平。[2]科学家猜想，原始人时期野外生存经常要与野兽搏斗，免不了会有流血的状况，若能迅速的止血，便有更多活下去的可能。所以，早期人类中，非O型人群更迅速的凝血能力赋予这个群体更多的生存优势。
+疟疾让O型血最终占了上风
+但从目前世界上各血型的分布比例来看，O型血的比例更高，是后来又出现了什么因素，让O型血基因产生了选择优势吗？
+研究者们想到了传染病，在人类各个历史时期，各种传染病都是对人类生存和繁衍的一个极大威胁。研究者们推测或许瘟疫也在“挑选”着人类的血型基因。
+
+在诸多传染病中，疟疾大概是人类基因组最强的选择压力了，它在人类的基因组中留下了包括葡萄糖-6-磷酸脱氢酶缺陷、镰刀形贫血症在内的多种疾病的遗传痕迹。[3][4]据WHO
+估计，2010年全球仍有2.16亿人感染疟疾，65.5万人死于疟疾，死亡的大部分都是5岁以下的儿童。[5]
+疟疾最猖狂的时代是一万年前，也正是在那个时候人类的生活方式发生了改变，从四处捕猎转变为更加稳定的农耕生活。家畜开始被圈养，森林里的树被砍掉后产生了大片的空地，雨水在这里积聚起来，形成了很多不流动的小池塘，这都为蚊子的大量繁殖提供了温床，而蚊子正是疟原虫的宿主，是疟疾传播的必需媒介。[6]疟疾致人死亡的原因是被疟原虫寄生的红细胞，会在细胞膜上表达一种粘附分子，这种粘附分子会与未感染红细胞上的血型抗原相结合，形成像玫瑰花一样的血液凝块，这种玫瑰花结黏附于血管内皮细胞上，导致血管闭塞和严重的疾病，而且玫瑰花结的多少与感染的严重性成正比。
+有研究表明，这种粘附分子对A
+血型抗原有较强的亲和力，与B抗原亲和力较弱。因此感染疟疾后，A
+型血人相对于B 型血人和O
+型血人能形成更多的玫瑰花结。
+根据这些研究结果，那疟疾流行过的地区，O
+型血人数应该高于A 型血。目前世界上O 型血和A
+型血的分布确实与上述推论一致。在热带地区，疟疾较为流行，而在寒冷的地区，疟疾不那么流行。居住在中美洲和南美洲的热带区域的土著居民绝大部分是O
+型血。但是，在较寒冷的地区，如斯堪迪纳维亚半岛、格陵兰岛，以及欧洲和北美的北极圈地区，A型血是出现比率最高的血型。[7]这些数据从另一个角度印证了O型血有利于对疟疾的抗性，A型血不利于对疟疾的抗性。另外还有研究指出，欧洲较多的A型血人群较多，可能也是天花蔓延的原因。[8]
+
+数据来自文献《The ABO blood group system and Plasmodium
+falciparum malaria》[7]。
+O型血也不是占尽便宜
+虽然O型血对抵御疟疾有优势，可遇到霍乱就不及其他血型了。大量研究表明，感染霍乱后，O型血的人相对于非O型血的群体，更可能发展为严重感染。[9]孟加拉国恒河三角洲地区是霍乱的高发地区，近代几乎所有的霍乱疫情都是从这个地区传播出去的，研究认为现代该地区O型血人群数量较少而B型血人数量较多，与早期霍乱的选择压力直接相关。[10][11]
+同样1996年在苏格兰爆发了一种由大肠杆菌O157导致的胃肠道感染，死亡人群中有87.5%都是O型血，这意味着O型血的人对这种细菌可能更敏感。[12]
+结论：血型确实跟某些疾病存在相关性，在人类演化初期像疟疾这样严重威胁人类生存的传染性疾病影响了人类血型分布。但血型并不像谣言所说，跟一些具体疾病存在直接对应关系。在现代社会，个体患特定疾病的风险及患病后病情的严重程度，影响因素很复杂，血型不是唯一的影响因素。与其为自己的血型而担忧，不如改变不健康的生活方式。 
+更多谣言讨论，请到谣言粉碎机小组。
+健康知识讨论，请加入健康朝九晚五小组、药学驿站小组。
+参考文献：
+Wikipedia: Blood type#ABO_and_Rh_distribution_by_country
+陈稚勇，赵桐茂，张工梁.
+《中国人ABO血型分布》. 遗传，1982，4920:4-7.
+Jenkins PV, O’Donnell JS. ABO blood group determines plasma
+von Willebrand factor levels: a biologic function after all?
+Transfusion. 2006;46(10):1836-1844.
+Gallinaro L, Cattini MG, Sztukowska M, et al. A shorter von
+Willebrand factor survival in O blood group subjects explains how
+ABO determinants influence plasma von Willebrand factor.
+Blood.2008;111(7):3540-3545.
+Kay AC, Kuhl W, Prchal J, Beutler E. The origin of
+glucose-6-phosphate-dehydrogenase (G6PD) polymorphisms in
+African-Americans. Am J Hum Genet. 1992;50:394-398.
+Desai DV, Dhanani H: Sickle Cell Disease: History And Origin. J
+Hematol. 2004;1:599-600.
+Defeating malaria in Asia, the Pacific, Americas, Middle East and
+Europe 
+Loscertales MP, Owens S, O’Donnell J, et al. ABO blood group
+phenotypes and Plasmodium falciparum malaria: unlocking a pivotal
+mechanism.Adv Parasitol. 2007;65:1-50.
+Christine MC, Walter HD. The ABO blood group system and
+Plasmodium falciparum malaria.Blood.2007;110: 2250-2258
+Azeveˆdo E, Kreiger H, Morton NE. Smallpox and the ABO blood
+groups in Brazil. Am J Hum Genet. 1964;16:451-453.
+Harris JB, Khan AI, LaRocque RC, et al. Blood group, immunity,
+and risk of infection with Vibrio cholerae in an area of
+endemicity. Infect Immun.2005;73(11):7422-7427.
+Kaper JB, Morris JG, Levin MM. Cholera. Clin Microbiol Rev.
+1995;8(1):48-86.
+Glass RI, Holmgren J, Haley CE, et al. Predisposition for
+cholera of individuals with O blood group. Possible evolutionary
+significance. Am J Epidemiol. 1985;121(6):791-796.
+Blackwell CC, Dundas S, James VS, et al. Blood group and
+susceptibility to disease caused by Escherichia coli O157. J Infect
+Dis. 2002;185(3):393-396.
+ ]

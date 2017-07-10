@@ -1,0 +1,133 @@
+[
+流言：
+我曾经听人说确定胎儿性别只要看孕妇脸色便可知道。就是说：如果怀孕以后脸色变得更好看，皮肤变得更细腻，怀的多半是女孩，如果怀孕以后脸上的斑点变多了，脸色也没有原本好看了，那么怀的多半是男孩。
+真相：
+这个流言可以说是个老资格了，在国内很多地区都有传播。
+对这条流言，有一些似是而非的“科学解释”：准妈妈们如果肚中怀的是女孩，胎儿分泌的雌性激素占优势，妈妈的身体内就增加了额外的雌激素，皮肤自然会越来越好。如果怀的是男孩，男孩分泌的雄性激素会多一些。试想一下，如果女性服用了雄性激素会怎样，油脂分泌增多、角质层增厚，看起来自然是变丑了。
+其实按这种思路往下想，如果肚里怀着的是双胞胎，或者是龙凤胎，那么妈妈体内的激素水平岂不是会有更大变化？可是有报道显示，妈妈体内的固醇类激素水平（雄激素，雌激素都属于固醇类），在单一性别的双胞胎和龙凤双胞胎之间的并没有明显差别。从这一点来看，这个传言就很有问题[1]。
+雌激素真的对皮肤有好处么？
+对女性来说，雌激素对皮肤确实有好处，但前提是雌激素的水平不能太高。
+研究已经证实，雌激素对维持皮肤及皮下组织的正常结构和功能有重要的作用，随着年龄的增大、雌激素水平的下降使皮肤胶原的含量下降。皮肤成分的变化导致了和皮肤老化相关的功能上的变化，如：胶原的变化导致皮肤强度和弹力下降，亲水性的葡胺多糖（glycoaminoglycans）浓度下降导致皮肤水容量减少[2][3]，这些变化都可以导致皮肤松弛，失去弹性，暗淡无光等等。而雌激素能够改善皮肤功能的一个最有力证据是：局部应用雌激素能改善这些不良状况[4]。
+但是，雌激素水平过高就不好了。可能很多朋友都知道，孕妇们在怀孕时皮肤上会出现色斑，且皮肤会看起来黑一些，而这些现象在孕妇们生完小孩后一段时间有很大几率会消失——很大程度上是雌激素捣的鬼。
+
+女性在妊娠期间垂体分泌促黑素细胞激素(MSH)增加，同时雌激素和孕激素大量增多，这些激素的变化促进了皮肤黑素细胞的功能，使黑色素增加，孕妇肤色加深。面颊部可能会出现蝶状褐色斑，称为妊娠黄褐斑（chloasma
+gravidarum）[5]。对皮肤功能的深入研究显示，雌激素能促进体外培养的人类上皮黑素细胞的增殖活性和酪氨酸酶活性[6]，而酪氨酸酶是生成黑素过程中的一种重要的酶，酪氨酸酶活性的增加会导致生成更多的黑素。美国FDA的用药指导中就明确指出，对于绝经期妇女的雌激素替代疗法的一个常见的副作用就是会出现色斑[7]。
+这些证据都显示，雌激素虽然有可能让女性的皮肤变得更加柔嫩，但如果其水平过高，也会导致皮肤的色素沉积，出现色斑。而孕妇的雌激素水准，恰好处在“过高”这个档次。
+宝宝是男是女对妈妈的影响大么？
+怀孕时妈妈体内的激素水平是怎么变化的？宝宝是男是女对妈妈体内的激素水平有多大的影响？
+对于胎儿性别对母亲激素水平的影响，学界的观点并没有统一。的确有研究显示怀有男性宝宝的妈妈体内雌激素水平比较低[8]。但是，亦有报道显示宝宝是男是女，对妈妈体内的雄激素、雌激素水平不会造成显著的影响[9]。
+实际上，相比怀孕前，无论胎儿的性别如何，妈妈体内的激素水平都会发生显著变化，雌激素，孕激素，睾酮都会明显上升[5]。举例来说，在正常的成年女性中，随月经周期的变化，雌二醇（生物活性最强的雌激素）在血液中的含量大约是从大约20ng/L到大约750ng/L[10]，而在孕妇中，雌二醇含量可有近百倍的上升，到了临近生产时可达到20000ng/L的水平。
+即使是认为母亲的激素水平与胎儿性别有关的研究，统计所得的数据差异也并不十分大：在接近生产时，怀着女孩的妈妈体内的雌二醇含量约为23000ng/L，怀着男孩的约为20000ng/L。前面已经论述过，对于渴望保留美丽的皮肤的准妈妈们来说，孕妇体内的雌激水准已经是“过高”了。如果怀有男胎的孕妇雌激素水准的确是稍低一些，那么那些孕妇们的皮肤反而应该更好一些才是。但实际上，准妈妈们的皮肤是否能保持光鲜、靓丽，并不只取决于雌激素水平，还与生活习惯、环境等许多因素有关。想靠观察孕妇的皮肤就确定肚中胎儿的性别，是不靠谱的。
+结论：谣言粉碎。
+这个谣言虽说是个老资格，但也实在是很不靠谱。胎儿的性别对准妈妈的激素水平有没有明显的影响还没有明确的结论，但是在怀孕过程中女性体内雌激素水平肯定会上升，而大量增加的雌激素会让准妈妈们的皮肤颜色变深并出现色斑。并且，孕妇的皮肤是否细腻，脸色是否好看与很多因素有关。胎儿的性别并不能从准妈妈的皮肤上看出来。
+参考文献：
+
+
+
+[1]
+Cohen-Bendahan CCC, van Goozen SHM, Buitelaar JK, et al.
+Maternal serum steroid levels are unrelated to fetal sex: A study
+in twin pregnancies. Twin Res Hum Genet. 2005.8(2):173-177.
+
+
+
+
+
+
+[2]
+Affinito P, Palomba S, Sorrentino C, et al. Effects of
+postmenopausal Hypoestrogenism on skin collagen. Maluritas. 1999.
+33:239-247.
+
+
+
+
+
+
+[3]
+Sumino H, Ichikawa S, Abe M, et a1. Effects of aging and
+postmenopausal hypoestrogenism on skin elasticity and bone mineral
+density in Japanese women．Endocr J. 2004，51:159-164.
+
+
+
+
+
+
+[4]
+Raine-Fenning NJ, Brincal MP, Muscat-Baron Y. Skin aging and
+menopause: implications for treatment. Am J Clin Dermatol, 2003,
+4:371-378.
+
+
+
+
+
+
+[5]
+(1, 2) 丰有吉, 沈铿.
+妇产科学（第二版）. 人民卫生出版社.
+
+
+
+
+
+
+[6]
+Im S, Lee ES, Kim W, et a1. Donor specific response of estrogen
+and progesterone on cultured human melanocytes. J Korean Med Sci.
+2002. 17:58-64.
+
+
+
+
+
+
+[7]
+http://www.fda.gov/downloads/ForConsumers/ByAudience/ForWomen/FreePublications/UCM187036.pdf
+
+
+
+
+
+
+[8]
+Troisi R, Potischman N, Roberts J, et al. Associations of
+maternal and umbilical cord hormone concentrations with maternal,
+gestational and neonatal factors (United States). Cancer Cause
+Control. 2003.14(4): 347-355.
+
+
+
+
+
+
+[9]
+van de Beek, van Goozen SHM, Buitelaar JK, et al. Prenatal Sex
+Hormones (Maternal and Amniotic Fluid) and Gender-related Play
+Behavior in 13-month-old Infants. Arch Sex Behav. 2009.38(1):
+6-15.
+
+
+
+
+
+
+[10]
+王鸿利. 实验诊断学（第二版）.
+人民卫生出版社.
+
+
+
+
+
+
+[11]
+Troisi R, Potischman N, Roberts J, et al. Associations of
+maternal and umbilical cord hormone concentrations with maternal,
+gestational and neonatal factors (United States). Cancer Cause
+Control. 2003.14(4): 347-355.
+
+
+
+]

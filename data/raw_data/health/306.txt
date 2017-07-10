@@ -1,0 +1,50 @@
+[
+传言称：哈佛大学公共卫生学院近日在一项研究中发现，由于含有大量咖啡因，每天坚持喝适量咖啡能够使自杀率降低50%。这是真的么？ , 
+“研究人员在研究中表示目前的证据尚并不足以证明咖啡或咖啡因可以降低自杀风险，（实验中）那些摄入高剂量咖啡/咖啡因的人群之所以有较低的自杀风险也可能是由一些与咖啡/咖啡因无关的其他因素造成的，更没有提出50%这一精确的数字。咖啡因很有可能具有潜在的对抗抑郁症作用并能降低自杀风险，但目前还不可以修改营养健康部门推荐的人均日常咖啡因正常摄入量。”
+
+其实论文原文标题为：“Coffee, Caffeine, and Risk of
+Completed Suicide:Results from Three Prospective Cohorts of
+American
+Adults（咖啡，咖啡因，以及自杀风险：来自三批美国成年人的前瞻性群组研究结果）。从这里我们可以看到，作者想表达的意思里并没有“喝咖啡可以使自杀率降低”这一条，也不知道中文那条新闻怎么会这么大笔一挥来这么一句，还精确到个位来了个50%。
+在这项研究中，研究员采集并分析了以下人群保存在三大医疗系统数据库里的信息：
+· HPFS（Health Professional Follow-UpStudy）1988年
+–2008年间43599位成年美国男性
+· NHS（Nurses’ HealthStudy）1992年
+–2008年间73820位成年美国女性
+· NHS II（Nurses’ Health StudyII）1993年
+–2007年间91005位成年美国女性
+每四年这些人群的咖啡、咖啡因以及脱咖啡因咖啡的摄入量相关信息以问卷调查的形式被记录并保存入数据库。咖啡因的来源问题上，研究员也考虑到茶、含咖啡因的软饮料、巧克力等。当然，咖啡因的主要来源仍然是咖啡。另外，研究员希望在健康人群中进行这项调查，因此他们排除了罹患心血管疾病或癌症的个体。
+接下来，研究员调查了这些人群后来的自杀情况：三组人群中共有277例。综合考虑到这些人的酒精摄入量、身高体重指数（BMI）、婚姻状态、体能、抗抑郁药服用与否、年龄、吸烟等因素对数据的影响，研究员修正数据并发现自杀相对风险（Relativerisks）在每日饮用2
+–4杯含咖啡因咖啡的人群要远远低于只喝脱咖啡因咖啡或完全不喝咖啡的人群。
+那么，我们是否可以欣喜地说“喝咖啡可以降低自杀风险”？至少人家研究人员没在自己文章里贴上这个标签。首先，研究员说道：
+“In our study, suicide risk was no further decrease in thehighest
+level of caffeine intake, which might suggest that resultsfor
+caffeine intake are less convincing than the results for
+coffeeintake. … Overall, these results suggest that there is
+littlefurther benefit for consumption above 2-3 cups/day or 400 mg
+ofcaffeine/day. Therefore, the continuous estimate should
+beinterpreted with caution.”（“在我们的研究中，摄入最高剂量的咖啡因并未使自杀风险更低，这可能表明与‘咖啡摄入’结果相比，‘咖啡因摄入’结果说服力稍逊一筹。…总体来讲，这些数据可能意味着每日摄入超过2-3杯咖啡或400毫克咖啡因未必会带来更多的益处。因此，在理解接下来的估计时需要格外谨慎。”）
+其次，研究员提到：
+“… our study has limited ability to distinguish betweencaffeine
+and other components of coffee, and results fordecaffeinated coffee
+should be interpreted withcaution.”（“我们的研究未能做到区分咖啡因和咖啡中其他成分，因而在理解脱咖啡因咖啡的数据时应格外谨慎。”）
+我估计正是因为咖啡是全球人类可能最普遍饮用的饮料，研究员在遣词造句上特别谨慎小心，生怕一不留神引起歧义。比如，接下来研究员又写道：
+“This study also has limitations and the results should thusbe
+interpreted with caution. … neither this nor
+previousinvestigations can prove that coffee or caffeine reduces
+suiciderisk, and it remains possible that individuals with high
+intake ofcoffee and caffeine have lower suicide risk for reasons
+other thancaffeine/coffee consumption, such as a lower prevalence
+of chronicdiseases. … The robustness of our findings supports,
+but does notprove, a protective effect of caffeine.”（“本项研究亦存在局限性因而在理解数据时应格外谨慎。…我们此次研究和以前的（其他国际研究小组）研究都并不足以证明咖啡或咖啡因可以降低自杀风险，（实验中）那些摄入高剂量咖啡/咖啡因的人群之所以有较低的自杀风险也可能是由一些与咖啡/咖啡因无关的其他因素造成的，比如（这些人群）慢性疾病发生率较低。…对于咖啡因的保护效果，我们的数据只能起到强有力的支持作用而非证实作用。”）
+不知道大家感觉如何，我觉得也真难为了这篇文章的作者，他们在遣词造句上真是格外小心严谨，说了这么多次“with
+caution”，但这些caution是不是格外容易让人读的时候滤掉？不然怎么会有我开篇引用的那篇中文新闻？
+此外，研究员还提到了咖啡因的生物动力学（即体内代谢）很容易受到其他药物、酒精的影响，从而改变在身体里的滞留时间及浓度。服用锂盐的朋友要格外小心：咖啡因会增加锂盐在肾的清除，锂盐的血药浓度会很快降低，这样有可能导致锂盐失效。
+
+相信大家都听说过咖啡因可能引发焦虑、紧张等状况。然而近年来，越来越多的研究数据表明：咖啡因可能并不像我们一直想的那样，对精神类疾病只有不好的效果，恰恰相反，适当剂量的咖啡因可能会对中枢神经系统起到保护、平衡的作用。这里面的机制还并不是很清楚，因为咖啡因对中枢神经系统的作用非常错综复杂。目前认为，咖啡因主要是通过与腺苷A2a及A1受体（AdenosineA2a
+and A1
+receptors）[4]结合，然后产生其功效：咖啡因可能会让中枢的若干种单胺类神经化学递质[3]的“周转”增加。单胺类神经化学递质大家可能不熟，但要是我一说5-羟色胺（5-HT）、多巴胺（Dopamine）大家应该不会陌生：前者跟抑郁症密切相关，后者跟精神分裂症、帕金森症密切相关（事实上它俩跟太多太多大脑活动相关，不一而足）。有关抑郁症的5-羟色胺学说就是认为大脑中的5-羟色胺不足引发抑郁症症状，而目前最常使用的抗抑郁药5-羟色胺选择性再摄取抑制剂（SSRI）也是围绕这一学说设计的。假如咖啡因果真能提高5-羟色胺在大脑中的周转，那么咖啡因的确很有可能发挥类似SSRI的效果。当然，这个效果如何、什么剂量的咖啡因能产生这样的效果，目前还不清楚。哈佛的科学家们在最后也提到：咖啡因很有可能具有潜在的对抗抑郁症作用并能降低自杀风险，但目前还不可以修改营养健康部门推荐的人均日常咖啡因正常摄入量。
+
+原创文章在：http://blog.sina.com.cn/s/blog_5a7bcaa70101q2et.html
+（作者：晓晓钱）
+]

@@ -1,0 +1,6 @@
+[
+苹果iOS系统新发现了一个严重bug，用户只要在
+Safari上播放一个.mp4视频（iOS设备不要打开）就能导致任何iOS设备死机，必须硬重启。YouTube视频播客
+EverythingApplePro演示了该bug，它会导致系统逐渐失去响应。一种可能的解释是该视频在播放时会导致某种内存泄漏，系统无法正确处理。受影响的iOS版本从iOS
+5到iOS 10.2，基本上涵盖了所有的用户使用版本。
+本文永久更新链接地址：http://www.linuxidc.com/linux/2016-11/137453.htm ]

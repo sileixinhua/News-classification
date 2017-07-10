@@ -1,0 +1,25 @@
+[
+流言：
+提醒您，到加油站加油时，最好是把手机给关了！因为手机来电时，产生细微的火花会引爆空气中的油气。在美国已经连续发生好几起民众在加油时，手机突然响起，结果引发大爆炸的案件。
+真相：
+这一类型的谣言最喜欢通过描述“XX地的XX人”的惨痛经历来说明这是多么可怕的一件事。而实际上，专家调查了各地加油站的火灾爆炸事故，没有一例是因为使用手机引起的，根本不存在“由于使用手机而引发的加油站火灾和爆炸的事件”。2001年，俄克拉荷马大学无线电磁感应研究中心的Glenn
+Kuriger小组完成了最广泛细致的研究，结果表明，所谓的手机来电产生火花进而引爆弥散在空气中的油汽，只是理论上的推测，只有在极其严苛的条件在才有可能发生，而现实中是不可能发生的。[1]
+
+由于这个谣言的广泛传播，美国电子电气工程师协会（Institute
+of Electrical and Electronics
+Engineers，IEEE）、美国无线通信工业协会（cellular
+telecommunications industry association
+，CTIA）和美国石油学会（American petroleum
+institute，API）都曾发表声明来澄清这一点。[2]
+最最给力的是著名实验帝《流言终结者》[3]，实验人员制作了一个爆炸室，将一只手机放在里面，把气雾状的汽油喷进去，并且控制适合爆炸的油气混合比。一切准备就绪以后，实验人员拨打了那只手机。结果是纹丝不动，根本不能被引爆，流言终结。
+关于“加油站内禁止打手机”还有一个说法是：加油站普遍采用电脑控制，在加油站接打手机，会造成加油站的部分设备引起感应，从而影响设备的正常工作，最终导致计量不准。而实际上，这种情况也是不可能的。
+结论：谣言破解。
+使用手机并不会在加油站引起火灾或爆炸，但是，如果有禁止使用手机的标志，你也只能遵守规定了。
+参考资料：
+[1] Burgess, Adam(2007) 'Real and phantom risks at the petrol
+station: The curious case of mobile phones, fires and body
+static'
+[2] a) IEEE Spectrum (2004, April): Mobile Phones Pose No Petrol
+Station Hazard. Accessed November 2005 b) snopes
+[3] 《流言终结者》
+ ]

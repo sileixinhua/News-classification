@@ -1,0 +1,64 @@
+[
+逛博物馆时，如果留心观察，我们有时会发现馆内竖有禁止使用闪光灯的标识。出于保护藏品的目的，很多博物馆中都有禁止使用闪光灯的标识。可最近，发生在国家博物馆的一起“闪光灯事件。 , 
+光除了能够直接导致纺织品和绘画中的染/颜料分解外，还会和氧气共同作用，发生光促进氧化，让文物“黯然失色”。闪光灯一次小小的闪烁，肯定不会像实验室中的模拟条件那样苛刻，但是日积月累的伤害却足以产生水滴石穿的效果。 , 
+问题的根源：光携带能量
+万物生长靠太阳，因为阳光蕴含着能量。其实所有的光都是如此，也正是这些能量成为文物老化的罪魁祸首之一。其中最致命的可能是光化学反应：在这些能量的作用下，文物表面的分子或者分解，或者和其他物质反应，从而失去了原本的特征。不过，在光的例子里，能量并不是平等的。光传递能量时并非连续的，而是分成一个个的小能量包，每个包对应一个“光子”。越蓝的光，每个光子的能量就越大，通常而言造成的光化学破坏也越大；而就算总能量相同，越红的光，造成的光化学破坏也较小。不严格地比喻说，这就像被普通网球分别砸一百下没有事，而被一个百倍质量的超级网球砸一下可能就要出事。所以，关注光对文物的影响，需要注意两件事情：一是光携带的总能量大小，二是其中多少光子是高能的，多少是低能的。在讨论展出文物时，前者可以用“照度”来近似，而后者可以用“色温”来近似。严格地说，衡量光的能量，应该用辐射功率。但是日常环境中我们接收光的最主要仪器就是我们的眼睛，最常用判断标准就是眼睛感受到的明亮程度，所以在讨论可见光的时候我们常常会使用“照度”——把光强折合为人眼感受到的亮度。类似地，衡量光子能量分布，严格说应该用光谱信息。但博物馆和摄影一般不会使用什么奇怪的光源，而普通光源很多都可以用理想的黑体来近似。所以这里我们用黑体的对应温度——“色温”来近似描述光子的能量状况：每种情况下的光源都会发出能量大小不一的各种光子，但是色温越高，高能光子越多，光化学破坏力也越大。在纯粹的黑暗中保管文物当然最理想，但这样就失去了文物的教育和审美意义。好的博物馆会严格控制馆内光源，既能让参观者肉眼看到重要细节，又能尽可能延长文物的寿命；但再好的控制，面对外来的闪光灯也会化为泡影。那么，拍照时的闪光灯会发出怎样的光？是否超过了展品的耐受能力呢？
+闪光灯的光，和展品的耐受力
+以最常用的氙气闪光灯为例，为了更详细地了解它的发光性质，我们结合氙气闪光灯的发射光谱加以讨论。图中可以看出，除可见光区（400
+nm - 700
+nm）外，氙气闪光灯还有两个明显的发射区，分别在波长更短、能量更高的紫外光区（200
+nm - 400
+nm），和比红色光波长更长，具有明显热效应的红外区（700
+nm – 1200 nm）。那么氙气闪光灯是否符合要求呢？首先看色温。作为阳光的绝佳替代品，氙灯的色温与其相近，一般在6200K左右，这已经超过了对光有一定敏感度的藏品的要求了。作为闪光灯的氙灯发光时间虽然很短，但在距离物品2米处时，其瞬时照度可以达到上万勒克斯[2]——这显然远远大于藏品所能承受照度值。
+纺织品为何如此容易“见光死”？
+多彩的织物依赖于各种染料。正所谓“成也萧何，败也萧何”，染料本身的脆弱，也使彩色织物更加难以保存。造成染料如此“娇弱”的原因很多，“光漂白”便是罪魁祸首之一。顾名思义，染料的光漂白就是指染料在光照作用下发生褪色。这其中的机理较为复杂，但多数研究表明，染料光漂白可以分为染料的直接分解和氧化分解两种途径。[4,5]直接分解一般需要能量较高的紫外光，发生条件稍显苛刻；而氧化分解途径，或者说光促进氧化途径，因为对光的要求不高，再加上无处不在的氧气在其中“为虎作伥”，在平常条件下就很容易发生。根据被光活化后，染料分子如何与氧气反应，光促进氧化途径又可以分为两种。第一种途径是光通过染料活化氧气，被活化的氧气再反过来把染料破坏掉。为了更好地了解这两种途径，我们需要先引入一个概念——能级。为了简单理解，我们可以把能级看成是不同高度的楼层。俗话说，水往低处流。分子其实也都喜欢在稳定的最底层呆着。可是，一旦有了光照，染料分子会吸收合适的光能，纷纷蹦上更高层。而另一方面，平时沐浴在氧气中的我们欢蹦乱跳的，可能会觉得氧气很温和。其实，这是因为氧气一般都是三线态氧——处于底层状态的氧气。通常情况下，光照很难让氧气“嗨”起来，而吸收看光能，蹦上高层的染料分子，恰好扮演了能量传递者的身份——它们慷慨的将光能送给氧气，自己则退回到底层。而获得能量的氧气一步登天，摇身一变成了能量更高的单线态氧，露出了杀手的本来面目。这单线态氧简直是白眼狼，回过头来就把染料氧化得干干净净。[6]另一种光促进氧化途径则来得更加直接。前面我们说到，分子可以登上不同的楼层。其实更微观的来看，分子内部也是有着不同的楼层，而房客则是一个个的电子。电子本来都规规矩矩的从低层到高层住着自己的房间，光一来，情况就不同了，电子在吸收光能后，会跳到更高的楼层。如果这个不安分的电子再跳回原来的房间，并把吸收的能量以其他方式释放出去，比如光，那么一切安好；但是，氧气的出现使得不安分的高层电子有了新的去处——被光照活化的染料分子会将电子移交给氧气，自身则被氧化为自由基正离子，而氧气则被还原为自由基超氧阴离子。自由基超氧阴离子可以说是结合了自由基的活泼和氧的强氧化性，是个瞪谁谁怀孕的恶魔。在这个恶魔面前，染料分子丢盔弃甲，被分解殆尽。[7]
+尽管古代没有那么丰富的人工合成染料，人们还是从大自然获得了种类繁多的天然染料，比如靛蓝（吲哚类）、花青素（类黄酮类）、紫草素（醌类）、小襞碱（生物碱类）等，其中的靛蓝染料有着非常悠久的使用历史。古代的靛蓝染色依靠的是从植物如蓝草中提取的汁液。在染色过程中，除了会生成靛蓝以外，还常常因染色时温度、pH值的变化，产生靛玉红——一种与靛蓝结构相近的分子。而有研究发现，主波长为365
+nm的紫外灯对染料中的靛玉红有明显的降解作用[8]。另外，靛蓝染料中的靛蓝胭脂红（只比靛蓝多了磺酸根，除了增加水溶性以外，基本结构和性质和靛蓝差不多）在紫外灯和氧气的作用下，也会很快发生氧化分解，生成靛红磺酸。[9]
+光，让绘画“黯然失色”
+织物常用各种有机染料来增添色彩，而另一个彩色世界——绘画，还会使用各种无机颜料，比如铅白，朱砂等等。那么，使用无机颜料的藏品，如油画，是否能逃过闪光灯的追杀呢？遗憾的是，不能。举例来说，亮黄色的绘画颜料中会使用一种叫做硫化镉（CdS）的成分，这种成分因其着色力强、稳定性以及颜色鲜亮，而广受画家们的欢迎。莫奈、梵高、毕加索[11-13]等绘画大家的作品中都大量使用了这种颜料。但是在可见光的作用下，硫化镉中的硫会被逐步氧化成硫酸根。[13]这个过程还是可以用之前提到的能级模型来解释：光照会住在硫化镉中的电子房客赶到更高的楼层中，而一旦有空出来的房间，原本住在硫中的房客就会趁虚而入。结果就是硫失去电子，被氧化为单质硫，而单质硫很容易被氧气氧化为硫酸根，最终使颜料被完全破坏。粉末。管中窥豹，可见一斑。上面看的这些例子，也只是为大家展示了光照对藏品破坏这只花豹身上的一块花斑。而光照对藏品的破坏又何止这一种——红外光虽然能量较低，但是其显著的热效应可以加速纸张、木器等纤维素丰富的藏品脱水开裂；而有机藏品，比如动植物标本、骨器等中富含的羰基、芳基等发色团，同样可以在光照的条件下被激发，发生氧化，或干脆直接被分解[15,16]。闪光灯一次小小的闪烁，肯定不会像实验室中的模拟条件那样苛刻，但是日积月累的伤害却足以产生水滴石穿的效果。为了历史的厚重可以千百年的传承下去，请关闭闪光灯，小心翼翼地欣赏那些珍贵的藏品吧！
+参考资料：
+http://dpanswers.com/content/canon_flash.php
+http://www.cap-xx.com/resources/docs/cap-xx_wp_0906_comparison_of_xenon_flash_and_led_flash_v3.pdf
+《博物馆建筑设计规范 JGJ66-91》
+Batchelor, S. N., et al. The photofading mechanism of
+commercial reactive dyes on cotton, Dyes and Pigments, 2003, 59,
+269.
+Oakes, J. Photofading of textile dyes, Review of Progress in
+Coloration and Related Topics, 2001, 31, 21.
+Wilkinson, F., et al. Rate constants for the decay and
+reactions of the lowest electronically excited singlet state of
+molecular oxygen in solution. An expanded and revised compilation,
+Journal of Physical and Chemical Reference Data, 1995, 24,
+663.
+Egerton, G. S., et al. The photochemistry of dyes. IV-The role
+of singlet oxygen and hydrogen peroxide in photosensitised
+degradation of polymers, Journal of the Society of Dyers and
+Colourists, 1971, 87, 268.
+何秋菊，一组古代丝织品上蓝色植物染料的分析鉴定，文物保护与考古科学，2012，24，59.
+Camarero， L., et al. Photo-Assisted oxidation of
+indigocarmine in an acid medium, Environmental Engineering Science,
+2003, 20, 281.
+Bandara, J., et al. Fast kinetic spectroscopy, decoloration and
+production of H2O2 induced by visible light in oxygenated solutions
+of the azo dye Orange II, New Journal of Chemistry, 1999, 23,
+717.
+Roy, A. National Gallery Technical Bulletin, 2007, 28, 58.
+Fiedler, I., et al. Cadmium yellows, oranges and reds.
+Artists’Pigments. A Handbook of their History and
+Characteristics; Cambridge University Press: Cambridge, 1986; Vol.
+1, pp 65.
+Leone, B., et al. The deterioration of cadmium sulphide yellow
+artists’pigments. In Preprints of The 14th Triennial Meeting of
+ICOM International Committee for Conservation; 2005; Vol. 2, pp
+803.
+Van der Snickt, G., et al. Characterization of a Degraded
+Cadmium Yellow (CdS) Pigment in an Oil Painting by Means of
+Synchrotron Radiation Based X-ray Techniques, Analytical Chemistry,
+2009, 81, 2600.
+Bent, D. V., et al. Excited State Chemistry of Aromatic Amino
+Acids and Related Peptides. 111. Tryptophan, Journal of the
+American Chemical Society, 1975, 97, 2612.
+Dorfman, L. M., et al. The Mechanism of the Photo-Chemical
+Decomposition of Diethyl Ketone, The Journal of Chemical Physics,
+1949, 17, 511.
+内容来源：为什么博物馆禁止使用闪光灯？winter_鼠包，果壳网科学人主题站 ]

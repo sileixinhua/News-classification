@@ -1,0 +1,162 @@
+[
+饭桌上，当你拿起筷子，左边就坐的美女发出了惊呼，“你是左利手呀？”语气中带着点意外和羡慕，因为“左利手更聪明”的想法早就深入人心了。不过，这个说法有多少科学上的依据呢？
+关于智商和左右利手之间的关系早在70多年以前就开始了。1933年，巴克内尔大学的心理学家让339名新入学的男学生接受智商测试，随后，这些学生又接受了左右两只手的力量测试。研究结果显示，这些大学新生的智商，不仅和左右手的力量大小没有关系，和两手力量的比例也没有关系。[1]
+
+三十多年后，一些神经科的大夫为了缓解癫痫病人的症状，试着割断了他们两个大脑半球之间的联系。这些做了手术的病人有个通俗形象的称呼：裂脑人。加州理工学院的神经生物学家Roger
+W
+Sperry对裂脑人很感兴趣，并且做了一系列实验。他发现，两个大脑半球有各自的独立性，也存在不同的分工。如果让一个右利手裂脑人的左手握住一块物体，他会否认自己握着东西。因为绝大多数人的语言中枢位于左半球，而大脑右半球感知的信息不能传达到大脑左半球。这个发现让科学家开始更加关注左右利手影响大脑的各种可能。
+此后的数十年里，大量的研究结果出现了。不过，到目前为止，科学界也没有形成统一的结论。有些时候，一项研究发现左利手或是右利手的某项能力占有一定的优势，其它相似的研究却提出了反面的证据。不过，存在争议本身也能说明一定的问题，即使左利手更聪明一些，左右利手之间的智商差距也肯定很小，否则也用不着研究数十年还没有统一的结论了。
+科学界的争论不休
+1969年，加州理工学院生物系的Jeffry
+Levy在《自然》杂志上发表了一篇文章。他用韦克斯勒成人智力量表（Wechsler
+Adult Intelligence Scale,
+WAIS,又叫韦氏智力测验）测量了25名加州理工学院理科研究生的智力。在这25名学生中，10个人左利手，另外15人是右利手。Levy发现，左利手和右利手的语言智商（Verbal
+Intelligence）基本没有什么差别，但是左利手的视空间智商（visuo-spatial
+intelligence）平均只有117，明显比右利手的平均操作智商130要低。视空间智商可以衡量一个人对于空间和距离的认知能力，是一项很重要的智商指标。[2]
+
+1973年，剑桥大学遗传系的教授J.B.Gibson同样在《自然》杂志上回应了Jerry
+Levy的文章，表示不能赞同Levy的统计方法。Gibson认为，Levy的研究样本量太小，而且受测对象都是同一个学校的理科研究生，来源过于单一。Gibson在回应文章里给出了自己的数据。他的测试对象是145位科学家。13名左利手的平均视空间智商是120.4，而剩下的132位右利手的智商是120.7。因此，Gibson认为自己得到的数据不支持右利手更聪明的观点。此外，他还强调，自己的研究样本同样单一，而且左利手的人数也太少了，所以仅靠这些数据不能得出任何可靠的结论。[3]
+
+1974年，布拉德福德大学心理系的L.D.Roberts在《自然》上对之前的两篇文章同时做出了回应。他认为应该采用一种更加合理的测试智商的方法。他用这种方法比较了10个左利手和10个右利手的智力，发现左利手和右利手在所有的智商指标上
+(Full verbal, performance, verbal comprehension, perceptual
+organisation) 都没有显著区别。[4]
+
+类似的争议还出现在一些对专业人群的研究中。1982年，一项针对大学数学教师的研究发现，那些喜欢用左手的人，似乎在应付数学问题上更有天赋。[5]教育心理学家Camilla
+Benbow于1986年和1988年两度发表论文表述了类似的观点[6][7]。不过更晚一些的研究完全否定了之前的论文，认为数学天赋和左右手的偏好没有关系。[8]
+
+还有些研究甚至发现左利手可能比右利手笨一点。在1998年的一项研究中，研究人员让657名8至14岁的志愿者接受智力测验，然后把他们分成天才和非天才（gifted
+and
+non-gifted）两组。结果表明，虽然左利手和右利手的总体得分基本相同，但是天才组中右利手的比例比非天才组中的比例要高一些[9]。一些学者认为，左利手的形成是胎儿发育和出生过程中大脑的一些损伤导致的[10]。这样的损伤有可能让左利手产生一些优势，也有可能导致一些弱势。
+鉴于左右利手和智商的关系很难厘清，一些科学家另辟蹊径。他们更关注左右手熟练程度的比例，而不是左右手中的哪个更加熟练。不过在这样的角度下，不同的研究仍然出现了一定程度上的矛盾。很多比较早的研究显示，那些左右手比较平均的人相对于纯粹的左利手和右利手而言，比较聪明[11]。之后的研究则出现了相反的结果。2006年，Peters等人通过互联网收集了25,5100个实验对象的资料。参加实验的志愿者有5种类型：左手，基本用左手，两只手都能用，基本用右手，右手。结果发现，那些两只手都可以用的实验对象的空间认知能力最低，而出现阅读障碍的可能性最高[12]。
+
+比较可靠的研究出现在2010年，澳大利亚、英国和新西兰3国的科学家通过大脑研究和整合生物学网络数据库（brain
+research and integrative neuroscience
+network）获得了895个样本。他们发现，那些不专一的右手使用者的一般认知能力（General
+cognitive ability,
+GCA）比专一的左利手和右利手都要强一些。而左利手和右利手的一般认知能力则没有很大的不同。
+朴素的左利手与智商推论
+如果说科学界的研究虽然存在争议，但至少有理有据的话，民间对于左利手和智商推论的理由就显得千奇百怪了。一种相当常见的说明方法是举出很多左利手天才作为例证。可是举例子并非证明的方式，一个人同样可以举出无数右利手天才的例子。更何况很多左利手天才的案例是编造出来的。例如，网上声称爱因斯坦是左利手的文章多如牛毛，可是几乎所有能显示出爱因斯坦惯用手的照片都表明，爱因斯坦是一个右利手。认为左利手更聪明的人还喜欢用美国的总统们做例子，因为二战以后的13位美国总统中，有6位是左利手。不过这样的理由也缺乏统计的基础，因为“美国总统”是一个非常狭窄的范围。在世界上的200多个国家中的任何一个做总统都不是件容易的事，是不是所有的国家的领导人都是左利手居多呢？如果大多数国家的领导人中左利手都不占高于常人的比例，那么挑出几个特别的例子（比如美国）并不能说明很多问题。在中国近现代史里的十几个国家领导人中就没有左利手。最近压力很大的爱因斯坦大大明明是常用右手嘛！
+结论：
+左利手和右利手在认知能力上是否存在差异，是一个仍有争议的问题。不过，即使存在这种差距也不会很大，而且这只是从统计的角度而言，对于某个个体来说，意义更小。更何况一个人是否能愉快而有质量地生活，和本人的智商也未必有很大的联系。无论是作为左利手而感到自豪，或是作为右撇子利手而对左利手感到羡慕，都是没有必要的。
+ 
+参考资料：
+
+
+
+[1]
+Harriman P. Intelligence and handedness. The American Journal
+of Psychology. 1933; 45(3): 526-528.
+
+
+
+
+
+
+[2]
+Levy J. Possible basis for the evolution of lateral
+specialization of the human brain. Nature. 1969 Nov
+8;224(5219):614-5.
+
+
+
+
+
+
+[3]
+Gibson JB. Letter: Intelligence and handedness. Nature. 1973
+Jun 22;243(5408):482.
+
+
+
+
+
+
+[4]
+
+ROBERTS Intelligence and handedness Nature. 1974 Nov 08 252,
+180.
+
+
+
+
+
+
+
+[5]
+Annett M, Kilshaw D. Mathematical ability and lateral
+asymmetry. Cortex. 1982 Dec;18(4):547-68.
+
+
+
+
+
+
+[6]
+Benbow CP. Physiological correlates of extreme intellectual
+precocity. Neuropsychologia. 1986;24(5):719-25.
+
+
+
+
+
+
+[7]
+Camilla Persson Benbow Sex differences in mathematical
+reasoning ability in intellectually talented preadolescents: Their
+nature, effects, and possible causes Behavioral and Brain Sciences.
+1988; 11: 169-183
+
+
+
+
+
+
+[8]
+Peters M. Sex, handedness, mathematical ability, and biological
+causation. Can J Psychol. 1991 Sep;45(3):415-9.
+
+
+
+
+
+
+[9]
+Piro J. Handedness and intelligence: patterns of hand
+preference in gifted and nongifted children. Developmental
+Neuropsychology. 1998; 14(4),619-630.
+
+
+
+
+
+
+[10]
+Satz , P. , Orsini , D.L. , Saslow , E. , &amp; Henry , R. The
+pathological left-handedness syndrome . Brain &amp; Cognition.
+1985; 4 , 27– 46.
+
+
+
+
+
+
+[11]
+Crow , T.J. , Crow , L.R. , Done , D.J. , &amp; Leask , S.
+Relative hand skill predicts academic ability: Global defi cits at
+the point of hemispheric indecision . Neuropsychologia. 1998; 36 ,
+1275 – 1282 .
+
+
+
+
+
+
+[12]
+Peters , M. , Reimers , S. , &amp; Manning , J.T Hand
+preference for writing and associations with selected demographic
+and behavioural variables in 255,100 subjects: The BBC internet
+study. Brain &amp; Cognition. 2006; 62 , 177 – 189 .
+
+
+
+]
