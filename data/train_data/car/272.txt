@@ -112,7 +112,6 @@ XXX
 必填
 发邮件
 lxwm
-@
 cqn
 com
 cn

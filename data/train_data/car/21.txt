@@ -9,9 +9,7 @@
 近日
 网上
 流传
-7
 月
-1
 日起
 新交规
 私家车
@@ -52,7 +50,6 @@ async
 var
  
 sAnchor
-=
 '
 '
 
@@ -64,21 +61,16 @@ sAnchor
 var
  
 jsId
-=
 '
 ad
-_
 script
-_
 '
-+
 anchorId
  
 var
 
 
 jssrc
-=
 http
 /
 /
@@ -86,16 +78,12 @@ cache1
 yaoyanbaike
 com
 /
-g
 /
 aHR0cDovL2Fkc2hvd3MuMjFjbi5jb20vd2FzaG93P3Bvc0lkPQ
-=
-=
  
 data
 -
 src
-=
 http
 /
 /
@@ -105,18 +93,12 @@ com
 /
 washow
 posId
-=
  
-+
 adId
-+
 '
-&
 amp
 anchorid
-=
 '
-+
 anchorId
 
 
@@ -138,14 +120,11 @@ write
 谣言
 会
 相伴
-7
 月
-1
 日起
 违规行为
 以前
 扣
-6
 分
 直接
 升级
@@ -165,9 +144,7 @@ write
 都
 显著
 提升
-7
 月
-1
 日起
 逾期
 未年
@@ -182,7 +159,6 @@ write
 延误
 一个月
 扣
-3
 分
 罚款
 200
@@ -211,7 +187,6 @@ write
 车辆
 年检
 将记
-3
 分
 处罚
 车辆
@@ -234,7 +209,6 @@ write
 罚款
 200
 元记
-3
 分
 处罚
 网帖

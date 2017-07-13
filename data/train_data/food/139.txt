@@ -51,7 +51,6 @@ mobile
 客服
 邮箱
 service
-@
 weather
 com
 cn

@@ -206,7 +206,6 @@
 微克
 /
 克
-1
 喝一杯
 200
 毫升
@@ -289,10 +288,8 @@
 出现
 生育能力
 下降
-2
 睾丸酮
 减少
-3
 现象
 结果
 促使
@@ -336,7 +333,6 @@ Reproduction
 问卷
 描述
 过去
-3
 月
 中
 摄入
@@ -367,7 +363,6 @@ Reproduction
 精子
 浓度
 因果性
-4
 研究
 人员
 发现
@@ -383,7 +378,6 @@ DNA
 防止
 损伤
 好处
-5
 防止
 损伤
 机理
@@ -441,7 +435,6 @@ Sterility
 数量
 活力
 较
-6
 分析
 原因
 可能
@@ -468,7 +461,6 @@ Sterility
 精子
 数量
 活力
-7
 大豆
 中
 含有
@@ -513,7 +505,6 @@ Sterility
 质量
 产生
 影响
-8
 
 
 研究
@@ -568,7 +559,6 @@ Sterility
 需
 继续
 深入研究
-9
 2012
 年
 最新
@@ -769,7 +759,6 @@ Nutrition
 
 
 
-1
 
 
 高丽
@@ -780,7 +769,6 @@ Nutrition
 豆类
 食品
 中
-4
 
 
 种
@@ -807,7 +795,6 @@ J
 
 
 
-2
 
 
 Glover
@@ -876,7 +863,6 @@ Endocrinol
 
 
 
-3
 
 
 Weber
@@ -969,7 +955,6 @@ Endocrinol
 
 
 
-4
 
 
 Jorge
@@ -1057,7 +1042,6 @@ Reproduction
 
 
 
-5
 
 
 Song
@@ -1172,7 +1156,6 @@ s49
 
 
 
-6
 
 
 Food
@@ -1191,7 +1174,6 @@ semen
  
 quality
  
-a
 
 
 case
@@ -1209,7 +1191,6 @@ Sterility
 2009
  
 91
-3
 
 
 812
@@ -1229,7 +1210,6 @@ Sterility
 
 
 
-7
 
 
 Eskenazi
@@ -1303,7 +1283,6 @@ Reprod
 
 
 
-8
 
 
 Hamilton
@@ -1368,7 +1347,6 @@ results
  
 of
  
-a
 
 
 meta
@@ -1392,7 +1370,6 @@ FertilSteril
 
 
 
-9
 
 
 Christopher
@@ -1435,7 +1412,6 @@ reproductive
  
 function
  
-a
  
 review
  
@@ -1451,7 +1427,6 @@ Andrology
 2010
  
 33
-2
  
 304
 –
@@ -1663,9 +1638,7 @@ Nutrition
 13
 
 
-1
  
-2
  
 Nagata
  
@@ -1858,7 +1831,6 @@ lung
 
 cancer
  
-a
  
 prospective
  
@@ -1881,7 +1853,6 @@ ClinNutr
 91
 722
 –
-8
 
 
 
@@ -1891,13 +1862,11 @@ ClinNutr
 
 
 Update
-4
 研究
 描述
 编辑
 2013
 年
-3
 月
 18
 日

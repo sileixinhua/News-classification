@@ -138,7 +138,6 @@ gallica
 公顷
 质量
 超过
-1
 吨
 密歇根
 北部
@@ -420,7 +419,6 @@ Nature
 -
 431
  
-2
  
 April
  
@@ -472,7 +470,6 @@ DNA
 Clone
 
 
-1
 内
 取样
 点
@@ -484,7 +481,6 @@ Clone
 Clone
 
 
-2
 内
 取样
 点
@@ -578,7 +574,6 @@ The
 world
 '
  
-s
  
 largest
 
@@ -606,7 +601,6 @@ is
  
 obviously
  
-a
  
 humoristic
  
@@ -786,7 +780,6 @@ sp
 更
 多
 菌褶
-&
 amp
 菌管
 知识
@@ -823,7 +816,6 @@ html
 报道
 2013
 年
-9
 月
 BBC
 报道
@@ -841,7 +833,6 @@ BBC
 40
 厘米
 重达
-3
 千克
 算是
 世界
@@ -1284,7 +1275,6 @@ species
 
 in
  
-a
  
 mixed
 -
